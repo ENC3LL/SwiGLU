@@ -39,7 +39,7 @@ y = W2 ( SiLU(x·W_gate) ⊙ (x·W_up) )
 Nothing to install from PyPI. Just copy the file:
 
 ```bash
-curl -O https://raw.githubusercontent.com/ENC3LL/SwiGLU/main/swiglu.py
+curl -O https://raw.githubusercontent.com/ENC3LL/SwiGLU/swiglu.py
 ```
 
 Requirements:
