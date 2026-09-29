@@ -119,7 +119,7 @@ python swiglu.py
 
 ## 许可证
 
-MIT。如使用其他许可证，请修改此处。
+MIT。
 
 ---
 
