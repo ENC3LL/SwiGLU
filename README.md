@@ -119,7 +119,7 @@ Prints forward/backward max error against an fp32 reference and the output shape
 
 ## License
 
-MIT. Change this section if you use another license.
+MIT.
 
 ---
 
